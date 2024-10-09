@@ -1,0 +1,58 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Correct .gitignore for a Node.js/React project
+node_modules/
+dist/
+build/
+.vscode/
+*.log
+.env
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build folder
+build/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+node_modules/
+.DS_Store
+.env
+build/
+.vscode/
